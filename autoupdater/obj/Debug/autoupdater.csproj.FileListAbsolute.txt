@@ -1,0 +1,9 @@
+D:\code\autoupdate\autoupdater\autoupdater\bin\Debug\autoupdater.exe
+D:\code\autoupdate\autoupdater\autoupdater\bin\Debug\autoupdater.pdb
+D:\code\autoupdate\autoupdater\autoupdater\obj\Debug\autoupdater.Form1.resources
+D:\code\autoupdate\autoupdater\autoupdater\obj\Debug\autoupdater.Properties.Resources.resources
+D:\code\autoupdate\autoupdater\autoupdater\obj\Debug\autoupdater.csproj.GenerateResource.cache
+D:\code\autoupdate\autoupdater\autoupdater\obj\Debug\autoupdater.csproj.CoreCompileInputs.cache
+D:\code\autoupdate\autoupdater\autoupdater\obj\Debug\autoupdater.exe
+D:\code\autoupdate\autoupdater\autoupdater\obj\Debug\autoupdater.pdb
+D:\code\autoupdate\autoupdater\autoupdater\bin\Debug\autoupdater.exe.config

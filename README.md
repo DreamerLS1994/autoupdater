@@ -6,4 +6,6 @@ C# winform autoupdater
 
 博客：
 https://jerrycoding.com/article/csharp-autoupdate1/
+
+
 https://jerrycoding.com/article/csharp-autoupdate2/
