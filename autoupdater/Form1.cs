@@ -347,7 +347,8 @@ namespace autoupdater
 
             richTextBox1.AppendText("\n清理升级文件中...！");
 
-            //File.Delete(tmppath);
+            DirectoryInfo di = new DirectoryInfo(tmppath);
+            di.Delete(true);
             
             File.Delete(dstpath + "\\" + g_zipname);
             File.Delete(dstpath + "\\" + g_upxmlname);

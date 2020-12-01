@@ -7,3 +7,13 @@ D:\code\autoupdate\autoupdater\autoupdater\obj\Debug\autoupdater.csproj.CoreComp
 D:\code\autoupdate\autoupdater\autoupdater\obj\Debug\autoupdater.exe
 D:\code\autoupdate\autoupdater\autoupdater\obj\Debug\autoupdater.pdb
 D:\code\autoupdate\autoupdater\autoupdater\bin\Debug\autoupdater.exe.config
+D:\code\autoupdater\autoupdater\bin\Debug\autoupdater.exe.config
+D:\code\autoupdater\autoupdater\bin\Debug\autoupdater.exe
+D:\code\autoupdater\autoupdater\bin\Debug\autoupdater.pdb
+D:\code\autoupdater\autoupdater\obj\Debug\autoupdater.csprojAssemblyReference.cache
+D:\code\autoupdater\autoupdater\obj\Debug\autoupdater.Form1.resources
+D:\code\autoupdater\autoupdater\obj\Debug\autoupdater.Properties.Resources.resources
+D:\code\autoupdater\autoupdater\obj\Debug\autoupdater.csproj.GenerateResource.cache
+D:\code\autoupdater\autoupdater\obj\Debug\autoupdater.csproj.CoreCompileInputs.cache
+D:\code\autoupdater\autoupdater\obj\Debug\autoupdater.exe
+D:\code\autoupdater\autoupdater\obj\Debug\autoupdater.pdb
